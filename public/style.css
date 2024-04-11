@@ -1,0 +1,12 @@
+body {
+  font-family: 'Ruda', sans-serif;
+  font-size: 10px;
+}
+
+.viewbrg td {
+  vertical-align: middle;
+}
+
+.tombol.barang {
+  vertical-align: middle;
+}
